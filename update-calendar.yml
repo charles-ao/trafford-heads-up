@@ -1,0 +1,41 @@
+name: Update Old Trafford calendar
+
+on:
+  schedule:
+    - cron: "0 5 * * *"   # every day at 05:00 UTC
+  workflow_dispatch:       # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Build calendar
+        run: python build_calendar.py
+        env:
+          TM_API_KEY: ${{ secrets.TM_API_KEY }}
+          MUFC_ICS_URL: ${{ secrets.MUFC_ICS_URL }}
+          TM_VENUE_ID: ${{ vars.TM_VENUE_ID }}
+
+      - name: Commit if the events changed
+        run: |
+          git config user.name "calendar-bot"
+          git config user.email "calendar-bot@users.noreply.github.com"
+          git add docs/old-trafford.ics
+          # ignore timestamp-only changes so it only commits when events actually change
+          if git diff --cached --quiet -I '^DTSTAMP'; then
+            echo "No event changes"
+          else
+            git commit -m "Update calendar"
+            git push
+          fi
