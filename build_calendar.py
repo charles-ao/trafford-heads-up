@@ -48,12 +48,12 @@ def get_json(url, params):
 
 
 # ---------------------------------------------------------------- Victoria Warehouse
-
+# Victoria Warehouse Venue ID: KovZ9177fRf
 def find_venue_id(api_key):
     if os.environ.get("TM_VENUE_ID"):
         return os.environ["TM_VENUE_ID"].strip()
     data = get_json(f"{TM_BASE}/venues.json",
-                    {"apikey": api_key, "keyword": "Victoria Warehouse", "countryCode": "GB"})
+                    {"apikey": api_key, "keyword": "O2 Victoria Warehouse", "countryCode": "GB"})
     for venue in data.get("_embedded", {}).get("venues", []):
         if "manchester" in venue.get("city", {}).get("name", "").lower():
             print(f"Ticketmaster venue: {venue['name']} (id {venue['id']}) "
