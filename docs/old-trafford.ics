@@ -62,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: The Mary Wallopers
 DTSTART;TZID=Europe/London:20261023T190000
 DTEND;TZID=Europe/London:20261023T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_GCOAVYe@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/the-mary-wall
  opers-manchester-23-10-2026/event/3E0064C3A0174C02
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: Stephen Wilson Jr. - Gary the Torch Tour
 DTSTART;TZID=Europe/London:20261025T183000
 DTEND;TZID=Europe/London:20261025T223000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_kwJwN1I@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/stephen-wilso
  n-jr-gary-the-torch-manchester-25-10-2026/event/3E00646CA6CA32A8
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: The Kid LAROI - A Perfect World Tour
 DTSTART;TZID=Europe/London:20261029T190000
 DTEND;TZID=Europe/London:20261029T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_7mqyNcM@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/the-kid-laroi
  -a-perfect-world-manchester-29-10-2026/event/3E00644B9DE63B77
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: The Kid LAROI - A Perfect World Tour
 DTSTART;TZID=Europe/London:20261030T190000
 DTEND;TZID=Europe/London:20261030T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_7mL_dwS@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/the-kid-laroi
  -a-perfect-world-manchester-30-10-2026/event/3E00644B9F643CB3
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: Tove Lo - ESTRUS
 DTSTART;TZID=Europe/London:20261105T190000
 DTEND;TZID=Europe/London:20261105T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_1mzMdda@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/tove-lo-estru
  s-manchester-05-11-2026/event/3E0064ABB8DC30C9
@@ -122,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: Skye Newman
 DTSTART;TZID=Europe/London:20261106T190000
 DTEND;TZID=Europe/London:20261106T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_ahnyPE-@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/skye-newman-m
  anchester-06-11-2026/event/3E006496EAE659E1
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: Skye Newman
 DTSTART;TZID=Europe/London:20261107T190000
 DTEND;TZID=Europe/London:20261107T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_ahS54Xs@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/skye-newman-m
  anchester-07-11-2026/event/3E006496F32D5FB1
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: Yard Act
 DTSTART;TZID=Europe/London:20261113T190000
 DTEND;TZID=Europe/London:20261113T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_62R-0HH@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/yard-act-manc
  hester-13-11-2026/event/3E006473EF864F3C
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: Fat Dog: Day of the Dog
 DTSTART;TZID=Europe/London:20261114T190000
 DTEND;TZID=Europe/London:20261114T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_aNfAAVN@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/fat-dog-day-o
  f-the-dog-manchester-14-11-2026/event/3E006498D4145D23
@@ -170,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: Skye Newman
 DTSTART;TZID=Europe/London:20261119T190000
 DTEND;TZID=Europe/London:20261119T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_KUPGKB-@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/skye-newman-m
  anchester-19-11-2026/event/3E00653DA5313EA1
@@ -182,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: Kanine
 DTSTART;TZID=Europe/London:20261120T220000
 DTEND;TZID=Europe/London:20261121T020000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_o9thNOR@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/kanine-manche
  ster-20-11-2026/event/3E006515E96E382F
@@ -195,7 +195,7 @@ SUMMARY:Victoria Warehouse: PRESIDENT - Blood of Your Empire: United Kingd
  om Campaign 2026
 DTSTART;TZID=Europe/London:20261121T190000
 DTEND;TZID=Europe/London:20261121T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_1B03epa@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/president-blo
  od-of-your-empire-united-manchester-21-11-2026/event/3E0064AEA4482589
@@ -207,7 +207,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: Gorgon City
 DTSTART;TZID=Europe/London:20261127T190000
 DTEND;TZID=Europe/London:20261127T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_1h_sdHn@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/gorgon-city-m
  anchester-27-11-2026/event/3E0064A6D9C43F2A
@@ -219,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: Masters Of Hardcore - WORLD CLUB TOUR - UK
 DTSTART;TZID=Europe/London:20261128T193000
 DTEND;TZID=Europe/London:20261128T233000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_19lppjb@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/masters-of-ha
  rdcore-world-club-tour-manchester-28-11-2026/event/3E0064A5EB596718
@@ -231,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: The Pretty Reckless
 DTSTART;TZID=Europe/London:20261129T190000
 DTEND;TZID=Europe/London:20261129T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_kwl5N3B@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/the-pretty-re
  ckless-manchester-29-11-2026/event/3E00646CAB2E34BA
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: Razorlight - 'America' 20th Anniversary Tour
 DTSTART;TZID=Europe/London:20261203T190000
 DTEND;TZID=Europe/London:20261203T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_Gm1l055@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/razorlight-am
  erica-20th-anniversary-tour-manchester-03-12-2026/event/3E0064CB8AAE42CB
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: The Snuts
 DTSTART;TZID=Europe/London:20261204T190000
 DTEND;TZID=Europe/London:20261204T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_u1gA9eO@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/the-snuts-man
  chester-04-12-2026/event/3E0064D2B51570A0
@@ -267,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: The KOMPND Experience
 DTSTART;TZID=Europe/London:20261205T160000
 DTEND;TZID=Europe/London:20261205T200000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_K9hZUe6@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/the-kompnd-ex
  perience-manchester-05-12-2026/event/3E006535DB036087
@@ -279,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: Artemas - Getting Up to No Good
 DTSTART;TZID=Europe/London:20261212T190000
 DTEND;TZID=Europe/London:20261212T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_6NlSgnQ@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/artemas-getti
  ng-up-to-no-good-manchester-12-12-2026/event/3E006478EBCF5A9A
@@ -291,7 +291,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: The Road To Nashville
 DTSTART;TZID=Europe/London:20261219T140000
 DTEND;TZID=Europe/London:20261219T180000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_oSqSJuI@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/the-road-to-n
  ashville-manchester-19-12-2026/event/3E00651CDDCE6368
@@ -303,7 +303,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: Black Veil Brides - Vindicatour
 DTSTART;TZID=Europe/London:20270115T190000
 DTEND;TZID=Europe/London:20270115T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_GnhIfnz@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/black-veil-br
  ides-vindicatour-manchester-15-01-2027/event/3E0064CA9BA14AB8
@@ -315,7 +315,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: ADÉLA
 DTSTART;TZID=Europe/London:20270116T190000
 DTEND;TZID=Europe/London:20270116T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_o33ksCG@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/adela-manches
  ter-16-01-2027/event/3E006514921B138C
@@ -327,7 +327,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: CAMELPHAT ALL NIGHT LONG
 DTSTART;TZID=Europe/London:20270130T210000
 DTEND;TZID=Europe/London:20270131T010000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_fw99en-@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/camelphat-all
  -night-long-manchester-30-01-2027/event/3E00654C975C2AA1
@@ -340,7 +340,7 @@ SUMMARY:Victoria Warehouse: The Roar of the Roses featuring Terrorvision a
  nd Massive Wagons
 DTSTART;TZID=Europe/London:20270205T190000
 DTEND;TZID=Europe/London:20270205T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_uCKAP9d@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/the-roar-of-t
  he-roses-featuring-manchester-05-02-2027/event/3E0064D3931655C3
@@ -349,10 +349,22 @@ URL:https://www.ticketmaster.co.uk/the-roar-of-the-roses-featuring-manches
  ter-05-02-2027/event/3E0064D3931655C3
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Victoria Warehouse: Bella Kay
+DTSTART;TZID=Europe/London:20270214T190000
+DTEND;TZID=Europe/London:20270214T230000
+DTSTAMP:20261023T090932Z
+UID:tm-G5dzZ_43peeWm@old-trafford-calendar
+DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/bella-kay-man
+ chester-14-02-2027/event/3E00655496082F6E
+LOCATION:O2 Victoria Warehouse\, Trafford Wharf Road\, Manchester M17 1AB
+URL:https://www.ticketmaster.co.uk/bella-kay-manchester-14-02-2027/event/3
+ E00655496082F6E
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: Dylan Gossett - Ramblin' Eu/Uk Tour 2027
 DTSTART;TZID=Europe/London:20270219T190000
 DTEND;TZID=Europe/London:20270219T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_8hqWevT@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/dylan-gossett
  -ramblin-euuk-tour-2027-manchester-19-02-2027/event/3E006506DDF4207F
@@ -364,7 +376,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: The House & Garage Orchestra
 DTSTART;TZID=Europe/London:20270220T190000
 DTEND;TZID=Europe/London:20270220T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_2NoFwNa@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/the-house-gar
  age-orchestra-manchester-20-02-2027/event/3E0064F8D12328C9
@@ -376,7 +388,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: JPEGMAFIA: 'Experimental Rap' tour
 DTSTART;TZID=Europe/London:20270221T190000
 DTEND;TZID=Europe/London:20270221T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_3KKT4KR@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/jpegmafia-exp
  erimental-rap-tour-manchester-21-02-2027/event/3E006524D3FD54EF
@@ -388,7 +400,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: Cage The Elephant
 DTSTART;TZID=Europe/London:20270228T190000
 DTEND;TZID=Europe/London:20270228T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_3374s3o@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/cage-the-elep
  hant-manchester-28-02-2027/event/3E00652484571491
@@ -400,7 +412,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: Nessa Barrett: The Tough Love Tour
 DTSTART;TZID=Europe/London:20270304T190000
 DTEND;TZID=Europe/London:20270304T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_KEF80MH@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/nessa-barrett
  -the-tough-love-tour-manchester-04-03-2027/event/3E006539C8424DFC
@@ -412,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: MK
 DTSTART;TZID=Europe/London:20270312T210000
 DTEND;TZID=Europe/London:20270313T010000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_3Xc4SNG@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/mk-manchester
  -12-03-2027/event/3E00652FAD5738CC
@@ -424,7 +436,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: Love to be... Manchester
 DTSTART;TZID=Europe/London:20270320T170000
 DTEND;TZID=Europe/London:20270320T210000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_42dj7w-@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/love-to-be-ma
  nchester-manchester-20-03-2027/event/3E006553C3704CA1
@@ -436,7 +448,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: Westside Cowboy
 DTSTART;TZID=Europe/London:20270324T190000
 DTEND;TZID=Europe/London:20270324T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_3CKW-E_@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/westside-cowb
  oy-manchester-24-03-2027/event/3E00652393F619D9
@@ -448,7 +460,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: The Warning
 DTSTART;TZID=Europe/London:20270401T190000
 DTEND;TZID=Europe/London:20270401T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_3JR_df6@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/the-warning-m
  anchester-01-04-2027/event/3E006529AF643507
@@ -460,7 +472,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: The Lilacs
 DTSTART;TZID=Europe/London:20270403T190000
 DTEND;TZID=Europe/London:20270403T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_aQB6SXe@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/the-lilacs-ma
  nchester-03-04-2027/event/3E006496BA1F3F82
@@ -472,7 +484,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: Ministry - Hate To Go\, Goodbye Europe 2027
 DTSTART;TZID=Europe/London:20270406T180000
 DTEND;TZID=Europe/London:20270406T220000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_23mpvhX@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/ministry-hate
  -to-go-goodbye-europe-manchester-06-04-2027/event/3E0064F4AE5816FE
@@ -484,7 +496,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: Buffalo Traffic Jam: Across The Pond Tour '27
 DTSTART;TZID=Europe/London:20270408T190000
 DTEND;TZID=Europe/London:20270408T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_C1tbweG@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/buffalo-traff
  ic-jam-across-the-pond-manchester-08-04-2027/event/3E0064E2A963208C
@@ -497,7 +509,7 @@ SUMMARY:Victoria Warehouse: The Wombats: A Guide To Love\, Loss and Desper
  ation
 DTSTART;TZID=Europe/London:20270410T190000
 DTEND;TZID=Europe/London:20270410T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_KJU2f1I@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/the-wombats-a
  -guide-to-love-manchester-10-04-2027/event/3E006539B63D42A8
@@ -510,7 +522,7 @@ SUMMARY:Victoria Warehouse: The Wombats: A Guide To Love\, Loss and Desper
  ation
 DTSTART;TZID=Europe/London:20270411T190000
 DTEND;TZID=Europe/London:20270411T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_KJzO03K@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/the-wombats-a
  -guide-to-love-manchester-11-04-2027/event/3E006539B8824493
@@ -522,7 +534,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: Goat
 DTSTART;TZID=Europe/London:20270430T190000
 DTEND;TZID=Europe/London:20270430T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_5wojxPY@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/goat-manchest
  er-30-04-2027/event/3E0064BC91722970
@@ -534,7 +546,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Warehouse: CHVRCHES
 DTSTART;TZID=Europe/London:20270501T190000
 DTEND;TZID=Europe/London:20270501T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_43jXNpH@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/chvrches-manc
  hester-01-05-2027/event/3E0065549CFA35BC
@@ -547,7 +559,7 @@ SUMMARY:Victoria Warehouse: Loreen: The Wildfire Tour *MOVED TO MANCHESTER
   ACADEMY*
 DTSTART;TZID=Europe/London:20270512T190000
 DTEND;TZID=Europe/London:20270512T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_7n9hdPV@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/loreen-the-wi
  ldfire-tour-moved-to-manchester-12-05-2027/event/3E00644A976C3974
@@ -560,7 +572,7 @@ SUMMARY:Victoria Warehouse: Roni Size & Reprazent - New Forms 30th Anniver
  sary
 DTSTART;TZID=Europe/London:20270617T190000
 DTEND;TZID=Europe/London:20270617T230000
-DTSTAMP:20261022T233718Z
+DTSTAMP:20261023T090932Z
 UID:tm-G5dzZ_KMFpggg@old-trafford-calendar
 DESCRIPTION:Tickets and info: https://www.ticketmaster.co.uk/roni-size-rep
  razent-new-forms-30th-manchester-17-06-2027/event/3E00653DC85B5D75
@@ -572,7 +584,7 @@ BEGIN:VEVENT
 SUMMARY:Man Utd vs Spurs - Premier League
 DTSTART:20261010T163000Z
 DTEND:20261010T183000Z
-DTSTAMP:20261022T233550Z
+DTSTAMP:20261023T090510Z
 UID:4g75p1zyxl4j8c7wmeo4ezor8
 SEQUENCE:0
 CLASS:PUBLIC
@@ -592,7 +604,7 @@ BEGIN:VEVENT
 SUMMARY:Man Utd vs Bournemouth - Premier League
 DTSTART:20261025T140000Z
 DTEND:20261025T160000Z
-DTSTAMP:20261022T233550Z
+DTSTAMP:20261023T090510Z
 UID:4n3frqf8oggpkxs3v2rc0ry8k
 SEQUENCE:0
 CLASS:PUBLIC
@@ -612,7 +624,7 @@ BEGIN:VEVENT
 SUMMARY:Man Utd vs Roma - UEFA Champions League
 DTSTART:20261103T200000Z
 DTEND:20261103T220000Z
-DTSTAMP:20261022T233550Z
+DTSTAMP:20261023T090510Z
 UID:5rqrsahzx7cf2ieal6ezzw9as
 SEQUENCE:0
 CLASS:PUBLIC
@@ -632,7 +644,7 @@ BEGIN:VEVENT
 SUMMARY:Man Utd vs Villa - Premier League
 DTSTART:20261108T163000Z
 DTEND:20261108T183000Z
-DTSTAMP:20261022T233550Z
+DTSTAMP:20261023T090510Z
 UID:4tp842gtjqyx0bbp23n3em9zo
 SEQUENCE:0
 CLASS:PUBLIC
@@ -652,7 +664,7 @@ BEGIN:VEVENT
 SUMMARY:Man Utd vs Brentford - Premier League
 DTSTART:20261128T150000Z
 DTEND:20261128T170000Z
-DTSTAMP:20261022T233550Z
+DTSTAMP:20261023T090510Z
 UID:50jewe5a2x1vi9xqmjovi63o4
 SEQUENCE:0
 CLASS:PUBLIC
@@ -672,7 +684,7 @@ BEGIN:VEVENT
 SUMMARY:Man Utd vs Coventry - Premier League
 DTSTART:20261205T150000Z
 DTEND:20261205T170000Z
-DTSTAMP:20261022T233550Z
+DTSTAMP:20261023T090510Z
 UID:573b0ixr5iimdkxglz3jrkmj8
 SEQUENCE:0
 CLASS:PUBLIC
@@ -692,7 +704,7 @@ BEGIN:VEVENT
 SUMMARY:Man Utd vs Leipzig - UEFA Champions League
 DTSTART:20261208T200000Z
 DTEND:20261208T220000Z
-DTSTAMP:20261022T233550Z
+DTSTAMP:20261023T090510Z
 UID:622a296ckopqxonj3l17o9o2c
 SEQUENCE:0
 CLASS:PUBLIC
@@ -712,7 +724,7 @@ BEGIN:VEVENT
 SUMMARY:Man Utd vs Forest - Premier League
 DTSTART:20261227T163000Z
 DTEND:20261227T183000Z
-DTSTAMP:20261022T233550Z
+DTSTAMP:20261023T090510Z
 UID:5hus55kbhcz9ubuaihuqahudw
 SEQUENCE:0
 CLASS:PUBLIC
@@ -732,7 +744,7 @@ BEGIN:VEVENT
 SUMMARY:Man Utd vs Sunderland - Premier League
 DTSTART:20261230T193000Z
 DTEND:20261230T213000Z
-DTSTAMP:20261022T233550Z
+DTSTAMP:20261023T090510Z
 UID:5la8l0tig69lnukmmmhy7ias4
 SEQUENCE:0
 CLASS:PUBLIC
@@ -752,7 +764,7 @@ BEGIN:VEVENT
 SUMMARY:Man Utd vs Newcastle - Premier League
 DTSTART:20270107T200000Z
 DTEND:20270107T220000Z
-DTSTAMP:20261022T233550Z
+DTSTAMP:20261023T090510Z
 UID:5s75i58b6bfzf36hqmgdoxi50
 SEQUENCE:0
 CLASS:PUBLIC
@@ -772,7 +784,7 @@ BEGIN:VEVENT
 SUMMARY:Man Utd vs FC Bayern - UEFA Champions League
 DTSTART:20270120T200000Z
 DTEND:20270120T220000Z
-DTSTAMP:20261022T233550Z
+DTSTAMP:20261023T090510Z
 UID:6at9tohbqkgb0im03rkcwi7f8
 SEQUENCE:0
 CLASS:PUBLIC
@@ -792,7 +804,7 @@ BEGIN:VEVENT
 SUMMARY:Man Utd vs Liverpool - Premier League
 DTSTART:20270123T150000Z
 DTEND:20270123T170000Z
-DTSTAMP:20261022T233550Z
+DTSTAMP:20261023T090510Z
 UID:5z5snobv307j02fimm73i51qs
 SEQUENCE:0
 CLASS:PUBLIC
@@ -812,7 +824,7 @@ BEGIN:VEVENT
 SUMMARY:Man Utd vs Chelsea - Premier League
 DTSTART:20270206T150000Z
 DTEND:20270206T170000Z
-DTSTAMP:20261022T233550Z
+DTSTAMP:20261023T090510Z
 UID:662tr5phnpgvhalpq9wodtgk4
 SEQUENCE:0
 CLASS:PUBLIC
@@ -832,7 +844,7 @@ BEGIN:VEVENT
 SUMMARY:Man Utd vs Brighton - Premier League
 DTSTART:20270210T200000Z
 DTEND:20270210T220000Z
-DTSTAMP:20261022T233550Z
+DTSTAMP:20261023T090510Z
 UID:69iryxlmawpa29t1r3m6hz9xw
 SEQUENCE:0
 CLASS:PUBLIC
@@ -852,7 +864,7 @@ BEGIN:VEVENT
 SUMMARY:Man Utd vs Arsenal - Premier League
 DTSTART:20270227T150000Z
 DTEND:20270227T170000Z
-DTSTAMP:20261022T233550Z
+DTSTAMP:20261023T090510Z
 UID:6gfw7jruiwgiiu8qrwmij6wpg
 SEQUENCE:0
 CLASS:PUBLIC
@@ -872,7 +884,7 @@ BEGIN:VEVENT
 SUMMARY:Man Utd vs Everton - Premier League
 DTSTART:20270313T150000Z
 DTEND:20270313T170000Z
-DTSTAMP:20261022T233550Z
+DTSTAMP:20261023T090510Z
 UID:6nckhgsrtkq2ki0r68195ksgk
 SEQUENCE:0
 CLASS:PUBLIC
@@ -892,7 +904,7 @@ BEGIN:VEVENT
 SUMMARY:Man Utd vs Hull - Premier League
 DTSTART:20270410T140000Z
 DTEND:20270410T160000Z
-DTSTAMP:20261022T233550Z
+DTSTAMP:20261023T090510Z
 UID:6u9q7gkri3awnvxnyapgi77ys
 SEQUENCE:0
 CLASS:PUBLIC
@@ -912,7 +924,7 @@ BEGIN:VEVENT
 SUMMARY:Man Utd vs Palace - Premier League
 DTSTART:20270424T140000Z
 DTEND:20270424T160000Z
-DTSTAMP:20261022T233550Z
+DTSTAMP:20261023T090510Z
 UID:7171hpw3ufexx6b1hwoswik2c
 SEQUENCE:0
 CLASS:PUBLIC
@@ -932,7 +944,7 @@ BEGIN:VEVENT
 SUMMARY:Man Utd vs Leeds - Premier League
 DTSTART:20270515T140000Z
 DTEND:20270515T160000Z
-DTSTAMP:20261022T233550Z
+DTSTAMP:20261023T090510Z
 UID:7cafhudw5evq1p48jjsrxikno
 SEQUENCE:0
 CLASS:PUBLIC
@@ -952,7 +964,7 @@ BEGIN:VEVENT
 SUMMARY:Man Utd vs Fulham - Premier League
 DTSTART:20270530T150000Z
 DTEND:20270530T170000Z
-DTSTAMP:20261022T233550Z
+DTSTAMP:20261023T090510Z
 UID:7j7bsq8gp5imjqpni3rfi7lec
 SEQUENCE:0
 CLASS:PUBLIC
