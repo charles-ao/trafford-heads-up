@@ -48,7 +48,8 @@ def get_json(url, params):
 
 
 # ---------------------------------------------------------------- Victoria Warehouse
-# Victoria Warehouse Venue ID: KovZ9177fRf
+# Victoria Warehouse Venue ID: KovZ9177fRf 
+# O2 Victoria Warehouse Venue ID: KovZ9177A50
 def find_venue_id(api_key):
     if os.environ.get("TM_VENUE_ID"):
         return os.environ["TM_VENUE_ID"].strip()

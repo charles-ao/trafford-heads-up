@@ -2,7 +2,7 @@ name: Update Old Trafford calendar
 
 on:
   schedule:
-    - cron: "0 5 * * *"   # every day at 05:00 UTC
+    - cron: "0 4 * * *"   # every day at 04:00 UTC
   workflow_dispatch:       # lets you run it manually from the Actions tab
 
 permissions:
